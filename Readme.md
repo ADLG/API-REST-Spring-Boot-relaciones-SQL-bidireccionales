@@ -1,4 +1,4 @@
-En este repositorio se encuentra el Desarrollo de una API REST con relaciones bidireccionales SQL de una biblioteca y libros usando Postman con MariaDB en Spring Boot:
+En este repositorio se encuentra el Desarrollo de una API REST con relaciones bidireccionales (OneToMany y ManyToOne) SQL de una biblioteca y libros usando Postman con MariaDB en Spring Boot:
 -
 ## ***API REST relaciones SQL bidireccionales en Spring Boot***
 
